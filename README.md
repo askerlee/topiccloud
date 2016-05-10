@@ -5,6 +5,6 @@ This Python toolkit generates a Topic Cloud, a visual representation of topics d
 Please check the graphs in "/clouds" directory for example topic clouds.
 
 # Prerequisites: 
-* [wordcloud] (https://github.com/amueller/word_cloud/)
-* Pillow ([windows binary](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pillow) )
+* [wordcloud](https://github.com/amueller/word_cloud/) ([windows binary](http://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud))
+* Pillow ([windows binary](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pillow))
 * matplotlib
